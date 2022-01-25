@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-robofriends/static/css/main.710d1496.css",
+    "main.js": "/React-robofriends/static/js/main.fc4106be.js",
+    "static/js/787.32032a02.chunk.js": "/React-robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/The Quick South St.woff": "/React-robofriends/static/media/The Quick South St.14619c8f87f5963de6cc.woff",
+    "index.html": "/React-robofriends/index.html",
+    "main.710d1496.css.map": "/React-robofriends/static/css/main.710d1496.css.map",
+    "main.fc4106be.js.map": "/React-robofriends/static/js/main.fc4106be.js.map",
+    "787.32032a02.chunk.js.map": "/React-robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.710d1496.css",
+    "static/js/main.fc4106be.js"
+  ]
+}
